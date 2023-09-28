@@ -4,35 +4,6 @@
 #include <string.h>
 #include <stdbool.h>
 #include <unistd.h>
-//TO DO LISTED BELOW
-/*
-1.
-
-2.
-
-3.
-
-4.
-
-5.
-
-6.
-
-7.
-
-8.
-
-9.
-
-KNOWN ERRORS LISTED BELOW
-1.
-
-2.
-
-3.
-
-4.
-*/
 
 // Global Variables
 int column = 0;
